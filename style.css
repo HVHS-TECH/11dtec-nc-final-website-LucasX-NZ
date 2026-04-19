@@ -41,7 +41,7 @@ footer p{
     grid-template-columns: auto auto auto;
 }
 
-button nav{
+nav button {
     font-size: 35px;
     background-color: #cabac8;
     width: 625px;
@@ -89,6 +89,8 @@ li {
     width: 60%;
 }
 
-button .Gear_button {
-
+.Gear_buttons button {
+    font-size: 25px;
+    background-color: #cabac8;
+    width: 200px;
 }
