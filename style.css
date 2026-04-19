@@ -114,16 +114,10 @@ h4 {
 h5 {
     text-align: center;
     font-size: 45px;
-    margin: 20px auto;
+    margin: -20px 20px;
 }
-.chest_rigs {
+.Chest_rigs {
     display: grid;
     grid-template-columns: auto auto auto;
-    background-color: #81d6e3;
-    margin:auto; 
-    width: 60%;
-}
-.chest_rigs img {
-    width: 100px;
-    height: 100px;
+    margin: 20px auto;
 }
