@@ -95,7 +95,10 @@ li {
 }
 
 .Gear_Buttons button {
-    font-size: 25px;
+    font-size: 35px;
     background-color: #cabac8;
-    width: 200px;
+    width: 600px;
+    height: 75px;
+    margin: auto;
+    text-align: center;
 }
