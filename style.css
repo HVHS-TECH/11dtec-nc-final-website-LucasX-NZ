@@ -89,9 +89,12 @@ li {
     width: 60%;
 }
 
-.Gear_Buttons button {
+.Gear_Buttons {
     display: grid;
     grid-template-columns: auto auto;
+}
+
+.Gear_Buttons button {
     font-size: 25px;
     background-color: #cabac8;
     width: 200px;
