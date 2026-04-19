@@ -123,3 +123,7 @@ h5 {
     margin:auto; 
     width: 60%;
 }
+.chest_rigs img {
+    width: 100px;
+    height: 100px;
+}
