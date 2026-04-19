@@ -30,6 +30,7 @@ p {
     text-align: center;
     width: 50%;
     margin: auto;
+    font-size: 20px;
 }
 * {
   margin: 0;
@@ -38,5 +39,5 @@ p {
 }
 
 body {
-    background-color
+    background-color: #4cb5ae;
 }
