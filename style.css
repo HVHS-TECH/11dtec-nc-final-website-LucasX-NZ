@@ -60,3 +60,13 @@ h3 {
     text-align: center;
     margin: 10px;
 }
+
+.ASNZ {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    margin: 20px auto;
+    background-color: #cabac8;
+    width: 200px;
+    padding: 10px;
+}
