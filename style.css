@@ -133,4 +133,6 @@ h5 {
 .Rigs_Info_Yap {
     display: grid;
     grid-template-columns: auto auto auto;
+    position: relative;
+    left: 7%;
 }
