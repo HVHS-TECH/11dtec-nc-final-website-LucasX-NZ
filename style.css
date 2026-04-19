@@ -13,6 +13,9 @@ h2 {
     font-size: 45px;
     text-align: center;
     margin: 10px;
+    background-color: #81d6e3;
+    margin:auto; 
+    width: 60%;
 }
 
 .container {
@@ -31,6 +34,9 @@ p {
     width: 50%;
     margin: auto;
     font-size: 20px;
+    background-color: #81d6e3;
+    margin:auto; 
+    width: 60%;
 }
 
 li {
@@ -53,6 +59,9 @@ body {
 .clubs {
     display: grid;
     grid-template-columns: auto auto;
+    background-color: #81d6e3;
+    margin:auto; 
+    width: 60%;
 }
 
 h3 {
@@ -66,8 +75,14 @@ h3 {
     text-align: center;
     font-size: 25px;
     margin: 20px auto;
-    background-color: #81d;
+    background-color: #81d6e3;
     width: 200px;
     padding: 10px;
     text-decoration: none;
+}
+
+.Clubs_title {
+    background-color: #81d6e3;
+    margin:auto; 
+    width: 60%;
 }
