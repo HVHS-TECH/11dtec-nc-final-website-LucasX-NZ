@@ -130,3 +130,7 @@ h5 {
     position: relative;
     left: 20%;
 }
+.rig_card p{
+    margin-top:8px;
+    font-size:20px;
+}
