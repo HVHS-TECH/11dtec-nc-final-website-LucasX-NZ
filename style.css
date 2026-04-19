@@ -1,8 +1,14 @@
-footer {
-    text-align: left;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-nav 
-{
+
+body {
+    background-color: #4cb5ae;
+}
+
+nav {
     background-color: #554348;
 }
 
@@ -19,6 +25,20 @@ h2 {
     margin:auto; 
     width: 60%;
 }
+
+h3 {
+    font-size: 35px;
+    text-align: center;
+    margin: 10px;
+}
+
+footer {
+    text-align: left;
+}
+
+
+
+
 
 .container {
     display: grid;
@@ -48,28 +68,12 @@ li {
     font-size: 25px;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-    background-color: #4cb5ae;
-}
-
 .clubs {
     display: grid;
     grid-template-columns: auto auto;
     background-color: #81d6e3;
     margin:auto; 
     width: 60%;
-}
-
-h3 {
-    font-size: 35px;
-    text-align: center;
-    margin: 10px;
 }
 
 .ASNZ {
@@ -88,3 +92,4 @@ h3 {
     margin:auto; 
     width: 60%;
 }
+
