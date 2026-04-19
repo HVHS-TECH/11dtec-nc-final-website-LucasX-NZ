@@ -135,3 +135,18 @@ h5 {
     margin-top:8px;
     font-size:20px;
 }
+
+.Plate_Carriers {
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    gap: 275px;
+    margin: 20px auto;
+    position: relative;
+    left: 7%;
+    font-size: 20px;
+}
+
+.rig_card p{
+    margin-top:8px;
+    font-size:20px;
+}
