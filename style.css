@@ -90,6 +90,8 @@ li {
 }
 
 .Gear_Buttons button {
+    display: grid;
+    grid-template-columns: auto auto;
     font-size: 25px;
     background-color: #cabac8;
     width: 200px;
