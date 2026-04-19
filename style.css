@@ -1,6 +1,13 @@
-nav {
+body {
+  margin: 0;
+  padding: 0;
+}
+
+nav 
+{
     background-color: #554348;
 }
+
 h1 {
     font-size: 60px;
     text-align: center;
@@ -9,6 +16,7 @@ h1 {
     display: grid;
     grid-template-columns: auto auto auto auto;
 }
+
 button {
     font-size: 35px;
     background-color: #cabac8;
