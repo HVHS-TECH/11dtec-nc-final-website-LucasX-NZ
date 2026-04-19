@@ -1,13 +1,7 @@
-body {
-  margin: 0;
-  padding: 0;
-}
 
 nav 
 {
     background-color: #554348;
-    margin: 0;
-    padding: 0;
 }
 
 h1 {
@@ -22,5 +16,11 @@ h1 {
 button {
     font-size: 35px;
     background-color: #cabac8;
-    font-color: black;
+    width: 500px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
