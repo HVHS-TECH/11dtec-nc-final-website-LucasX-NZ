@@ -150,3 +150,15 @@ h5 {
     margin-top:8px;
     font-size:20px;
 }
+
+.References p {
+    margin-top:8px;
+    font-size:20px; 
+    text-align: center;
+}
+
+.References li {
+    margin-top:8px;
+    font-size:20px; 
+    text-align: center;
+}
