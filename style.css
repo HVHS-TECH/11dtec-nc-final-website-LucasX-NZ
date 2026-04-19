@@ -45,5 +45,10 @@ body {
 .clubs {
     display: grid;
     grid-template-columns: auto auto;
+}
 
+h3 {
+    font-size: 30px;
+    text-align: center;
+    margin: 10px;
 }
