@@ -95,10 +95,18 @@ li {
 }
 
 .Gear_Buttons button {
-    font-size: 35px;
+    font-size: 50px;
     background-color: #cabac8;
     width: 600px;
-    height: 75px;
+    height: 200px;
     position: relative;
-    left: 20%;
+    top: -29.5%;
+    left: 8.5%;
+}
+
+.Gear_Buttons img {
+    position: relative;
+    left: 9%;
+    width: 200px;
+    height: 200px;
 }
