@@ -99,6 +99,6 @@ li {
     background-color: #cabac8;
     width: 600px;
     height: 75px;
-    margin: auto;
-    text-align: center;
+    position: relative;
+    left: 20%;
 }
