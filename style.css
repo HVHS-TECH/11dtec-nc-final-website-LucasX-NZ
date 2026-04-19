@@ -130,10 +130,3 @@ h5 {
     position: relative;
     left: 20%;
 }
-.Rigs_Info_Yap {
-    font-size: 20px;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    position: relative;
-    left: 7%;
-}
